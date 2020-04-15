@@ -24,14 +24,16 @@ São parte deste conjunto de dados:
     Eleições_2018_RMSP.shx
     Pesquisa exploratória eleições 2018.pdf
 
-Shapefiles e relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
+São arquivos georreferenciados e um relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
 
 ## Metodologia
 Os locais de votação foram obtidos a partir de geocodificação de planilha do TRE-SP por API da Google, com posteriores ajustes manuais. Os códigos de zonas e seções foram então usados para agregar os resultados de boletins de urna do TSE por locais de votação, e em seguida foram unidos ao shapefile de locais de votação.
 
 ## Finalidade
-Posts no blog do LabCidade.
+Publicação de posts no blog do LabCidade:
+[A geografia do voto do primeiro turno na metrópole paulistana](http://www.labcidade.fau.usp.br/a-geografia-do-voto-do-primeiro-turno-na-metropole-paulistana/)
+[Uma cidade entre muros: o voto do segundo turno em Sao Paulo](http://www.labcidade.fau.usp.br/uma-cidade-entre-muros-o-voto-do-segundo-turno-em-sao-paulo/)
 
 ## Dados externos
-- Tribunal Regional Eleitoral de São Paulo (http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)
-- Tribunal Superior Eleitoral (http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)
+- [Tribunal Regional Eleitoral de São Paulo](http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)
+- [Tribunal Superior Eleitoral](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)

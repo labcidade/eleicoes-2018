@@ -1,0 +1,46 @@
+Arquivo	Variável	Descrição
+Eleições_2018_RMSP_Locais de Votação.dbf	NUM SECAO	Número da seção eleitoral
+Eleições_2018_RMSP_Locais de Votação.dbf	NUM ZONA	Número da zona eleitoral
+Eleições_2018_RMSP_Locais de Votação.dbf	NOME ZONA	Nome da zona eleitoral
+Eleições_2018_RMSP_Locais de Votação.dbf	BAIRRO	Bairro do local de votação
+Eleições_2018_RMSP_Locais de Votação.dbf	COD LOCAL	Código único do local de votação
+Eleições_2018_RMSP_Locais de Votação.dbf	NOME LOCAL	Nome do local de votação
+Eleições_2018_RMSP_Locais de Votação.dbf	END LOCAL	Endereço do local de votação
+Eleições_2018_RMSP_Locais de Votação.dbf	MUNICIPIO	Município do local de votação
+Eleições_2018_RMSP.dbf	COD_LOCAL	Código do local de votação
+Eleições_2018_RMSP.dbf	1T_DIAS	Votos em Álvaro Dias/PODE (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_DACIOLO	Votos em Cabo Daciolo/PATRI (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_GOMES	Votos em Ciro Gomes/PDT (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_EYMAEL	Votos em José Maria Eymael/DC (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_HADDAD	Votos em Fernando Haddad/PT (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_ALCKMIN	Votos em Geraldo Alckmin/PSDB (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_BOULOS	Votos em Guilherme Boulos/PSOL (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_MEIRELL	Votos em Henrique Meirelles/MDB (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_BOLSONA	Votos em Jair Bolsonaro/PSL (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_AMOEDO	Votos em João Amoêdo/NOVO (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_GOULART	Votos em João Goulart Filho/PPL (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_SILVA	Votos em Marina Silva/PV (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_VERA	Votos em Vera Lúcia/PSTU (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_BRANCO	Votos brancos (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_NULO	Votos nulos (1º turno, presidência)
+Eleições_2018_RMSP.dbf	1T_TOTAL	Votos totais no local (1º turno, presidência)
+Eleições_2018_RMSP.dbf	2T_HADDAD	Votos em Fernando Haddad/PT (2º turno, presidência)
+Eleições_2018_RMSP.dbf	2T_BOLSONA	Votos em Jair Bolsonaro/PSL (2º turno, presidência)
+Eleições_2018_RMSP.dbf	2T_BRANCO	Votos brancos (2º turno, presidência)
+Eleições_2018_RMSP.dbf	2T_NULO	Votos nulos (2º turno, presidência)
+Eleições_2018_RMSP.dbf	2T_TOTAL	Votos totais no local (2º turno, presidência)
+Eleições_2018_RMSP.dbf	1TG_DORIA	Votos em João Doria/PSDB (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_MIRAND	Votos em Lilian Miranda/PCO (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_MARINH	Votos em Luiz Marinho/PT (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_COSTA-	Votos em Major Costa e Silva/DC (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_CANDID	Votos em Marcelo Cândido/PDT (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_FRANCA	Votos em Márcio França/PSB (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_SKAF	Votos em Paulo Skaf/MDB (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_FERNAN	Votos em Prof. Cláudio Fernando/PMN (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_LISETE	Votos em Prof. Lisete/PSOL (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_TAVARE	Votos em Rodrigo Tavares/PRTB (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_CHEQUE	Votos em Rogério Chequer/NOVO (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_FERREI	Votos em Toninho Ferreira/PSTU (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_BRANCO	Votos brancos (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_NULO	Votos nulos (1º turno, governo do estado)
+Eleições_2018_RMSP.dbf	1TG_TOTAL	Votos totais no local (1º turno, governo do estado)

@@ -31,8 +31,8 @@ Os locais de votação foram obtidos a partir de geocodificação de planilha do
 
 ## Finalidade
 Publicação de posts no blog do LabCidade:
-[A geografia do voto do primeiro turno na metrópole paulistana](http://www.labcidade.fau.usp.br/a-geografia-do-voto-do-primeiro-turno-na-metropole-paulistana/)
-[Uma cidade entre muros: o voto do segundo turno em Sao Paulo](http://www.labcidade.fau.usp.br/uma-cidade-entre-muros-o-voto-do-segundo-turno-em-sao-paulo/)
+- [A geografia do voto do primeiro turno na metrópole paulistana](http://www.labcidade.fau.usp.br/a-geografia-do-voto-do-primeiro-turno-na-metropole-paulistana/)
+- [Uma cidade entre muros: o voto do segundo turno em Sao Paulo](http://www.labcidade.fau.usp.br/uma-cidade-entre-muros-o-voto-do-segundo-turno-em-sao-paulo/)
 
 ## Dados externos
 - [Tribunal Regional Eleitoral de São Paulo](http://www.tre-sp.jus.br/eleitor/titulo-e-local-de-votacao/consulta-por-zona-eleitoral-e-bairro)

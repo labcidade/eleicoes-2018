@@ -1,4 +1,4 @@
-ELEIÇÕES 2018 - PRESIDÊNCIA, GOVERNO DO ESTADO E CONGRESSO NA RMSP
+Eleições 2018 - Presidência, Governo do Estado e Congresso na RMSP
 ============
 *Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 

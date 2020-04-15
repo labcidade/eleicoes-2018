@@ -9,6 +9,7 @@ ELEIÇÕES 2018 - PRESIDÊNCIA, GOVERNO DO ESTADO E CONGRESSO NA RMSP
 
 ## Conteúdo
 São parte deste conjunto de dados:
+
     Eleições_2018_RMSP_Locais de Votação.dbf
     Eleições_2018_RMSP_Locais de Votação.shp
     Eleições_2018_RMSP_Locais de Votação.shx
@@ -21,7 +22,7 @@ São parte deste conjunto de dados:
     Eleições_2018_RMSP.qpj
     Eleições_2018_RMSP.shp
     Eleições_2018_RMSP.shx
-Pesquisa exploratória eleições 2018.pdf
+    Pesquisa exploratória eleições 2018.pdf
 
 Shapefiles e relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
 

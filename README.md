@@ -8,6 +8,8 @@ ELEIÇÕES 2018 - PRESIDÊNCIA, GOVERNO DO ESTADO E CONGRESSO NA RMSP
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
+Shapefiles relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
+
 São parte deste conjunto de dados:
 
     Eleições_2018_RMSP_Locais de Votação.dbf
@@ -23,8 +25,6 @@ São parte deste conjunto de dados:
     Eleições_2018_RMSP.shp
     Eleições_2018_RMSP.shx
     Pesquisa exploratória eleições 2018.pdf
-
-São arquivos georreferenciados e um relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
 
 ## Metodologia
 Os locais de votação foram obtidos a partir de geocodificação de planilha do TRE-SP por API da Google, com posteriores ajustes manuais. Os códigos de zonas e seções foram então usados para agregar os resultados de boletins de urna do TSE por locais de votação, e em seguida foram unidos ao shapefile de locais de votação.

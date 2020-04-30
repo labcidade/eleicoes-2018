@@ -8,7 +8,7 @@ Eleições 2018 - Presidência, Governo do Estado e Congresso na RMSP
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo LICENÇA.txt)
 
 ## Conteúdo
-Shapefiles relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
+Shapefiles e relatório sobre comportamento eleitoral nas eleições de 2018 na Região Metropolitana de São Paulo para presidência, governo estadual e Câmara dos Deputados.
 
 São parte deste conjunto de dados:
 
